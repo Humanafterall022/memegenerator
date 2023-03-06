@@ -54,3 +54,8 @@ font-weight: bold;
 color: white;
 cursor: pointer;
 }
+
+.form--memeimage{
+    max-width: 100%;
+    margin: auto;
+}
